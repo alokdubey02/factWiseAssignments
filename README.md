@@ -1,13 +1,13 @@
 How to extract the code 
-#step1:
+# step1:
    clone repository
-#step2:
+# step2:
    move the backend and video folder away from the clone folder
-#step3:
+# step3:
    in the existing main folder enter the following command in the command line
    -> npm install or npm i
    -> then, [npm start] to start the server (if any error occurs kindly check the folder path or check the google)
-#step4:
+# step4:
    go into the backend folder 
    -> npm i
    -> node server.js  (to run the backend)
