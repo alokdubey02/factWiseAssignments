@@ -1,3 +1,31 @@
+How to extract the code 
+#step1:
+   clone repository
+#step2:
+   move the backend and video folder away from the clone folder
+#step3:
+   in the existing main folder enter the following command in the command line
+   -> npm install or npm i
+   -> then, [npm start] to start the server (if any error occurs kindly check the folder path or check the google)
+#step4:
+   go into the backend folder 
+   -> npm i
+   -> node server.js  (to run the backend)
+# step5:
+    Your PC is under my control in 5... 4... 3... 2... 1... 
+    check the localhost:3000 port
+    :)>3000
+
+
+
+
+
+
+
+
+
+
+
 You are a famous hacker who has access to a list of the world's most famous celebrities.
 You have to create a system where you can view and edit their details to hide their public presence.
 
